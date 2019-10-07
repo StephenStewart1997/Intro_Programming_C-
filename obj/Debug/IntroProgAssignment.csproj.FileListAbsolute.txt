@@ -1,0 +1,18 @@
+E:\Introduction to Programming\C# Programs\Assignment 1\IntroProgAssignment\bin\Debug\IntroProgAssignment.exe.config
+E:\Introduction to Programming\C# Programs\Assignment 1\IntroProgAssignment\bin\Debug\IntroProgAssignment.exe
+E:\Introduction to Programming\C# Programs\Assignment 1\IntroProgAssignment\bin\Debug\IntroProgAssignment.pdb
+E:\Introduction to Programming\C# Programs\Assignment 1\IntroProgAssignment\obj\Debug\IntroProgAssignment.csprojResolveAssemblyReference.cache
+E:\Introduction to Programming\C# Programs\Assignment 1\IntroProgAssignment\obj\Debug\IntroProgAssignment.exe
+E:\Introduction to Programming\C# Programs\Assignment 1\IntroProgAssignment\obj\Debug\IntroProgAssignment.pdb
+F:\Introduction to Programming\C# Programs\Assignment 1\IntroProgAssignment\bin\Debug\IntroProgAssignment.exe.config
+F:\Introduction to Programming\C# Programs\Assignment 1\IntroProgAssignment\obj\Debug\IntroProgAssignment.exe
+F:\Introduction to Programming\C# Programs\Assignment 1\IntroProgAssignment\obj\Debug\IntroProgAssignment.pdb
+F:\Introduction to Programming\C# Programs\Assignment 1\IntroProgAssignment\bin\Debug\IntroProgAssignment.exe
+F:\Introduction to Programming\C# Programs\Assignment 1\IntroProgAssignment\bin\Debug\IntroProgAssignment.pdb
+F:\Introduction to Programming\C# Programs\Assignment 1\IntroProgAssignment\obj\Debug\IntroProgAssignment.csprojResolveAssemblyReference.cache
+K:\Year1\steve backup\STEPHEN\Programming Semester 2\Introduction to Programming\C# Programs\Assignment 1\IntroProgAssignment\bin\Debug\IntroProgAssignment.exe.config
+K:\Year1\steve backup\STEPHEN\Programming Semester 2\Introduction to Programming\C# Programs\Assignment 1\IntroProgAssignment\bin\Debug\IntroProgAssignment.exe
+K:\Year1\steve backup\STEPHEN\Programming Semester 2\Introduction to Programming\C# Programs\Assignment 1\IntroProgAssignment\bin\Debug\IntroProgAssignment.pdb
+K:\Year1\steve backup\STEPHEN\Programming Semester 2\Introduction to Programming\C# Programs\Assignment 1\IntroProgAssignment\obj\Debug\IntroProgAssignment.csprojAssemblyReference.cache
+K:\Year1\steve backup\STEPHEN\Programming Semester 2\Introduction to Programming\C# Programs\Assignment 1\IntroProgAssignment\obj\Debug\IntroProgAssignment.exe
+K:\Year1\steve backup\STEPHEN\Programming Semester 2\Introduction to Programming\C# Programs\Assignment 1\IntroProgAssignment\obj\Debug\IntroProgAssignment.pdb
